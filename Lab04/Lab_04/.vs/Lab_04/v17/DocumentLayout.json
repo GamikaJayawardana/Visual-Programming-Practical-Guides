@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Lab\\Lab04\\Lab_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A69D9B-DDA2-48DE-A258-1E70C5763D82}|Lab_04\\Lab_04.csproj|d:\\(d) documents\\lessons\\year 03 sem 01\\becs 31242 - visual programming\\lab\\lab04\\lab_04\\lab_04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A69D9B-DDA2-48DE-A258-1E70C5763D82}|Lab_04\\Lab_04.csproj|solutionrelative:lab_04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamik\\source\\repos\\Lab_04\\Lab_04\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A69D9B-DDA2-48DE-A258-1E70C5763D82}|Lab_04\\Lab_04.csproj|d:\\(d) documents\\lessons\\year 03 sem 01\\becs 31242 - visual programming\\lab\\lab04\\lab_04\\lab_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A69D9B-DDA2-48DE-A258-1E70C5763D82}|Lab_04\\Lab_04.csproj|solutionrelative:lab_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Lab\\Lab04\\Lab_04\\Lab_04\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_04\\Form1.cs",
+              "ToolTip": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Lab\\Lab04\\Lab_04\\Lab_04\\Form1.cs",
+              "RelativeToolTip": "Lab_04\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:30:32.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\gamik\\source\\repos\\Lab_04\\Lab_04\\Form2.cs",
+              "ToolTip": "C:\\Users\\gamik\\source\\repos\\Lab_04\\Lab_04\\Form2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:39:23.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Lab\\Lab04\\Lab_04\\Lab_04\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_04\\Program.cs",
+              "ToolTip": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Lab\\Lab04\\Lab_04\\Lab_04\\Program.cs",
+              "RelativeToolTip": "Lab_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:30:48.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

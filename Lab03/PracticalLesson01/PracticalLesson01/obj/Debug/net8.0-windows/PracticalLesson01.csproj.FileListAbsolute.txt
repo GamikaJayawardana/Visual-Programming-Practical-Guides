@@ -1,0 +1,39 @@
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\bin\Debug\net8.0-windows\PracticalLesson01.exe
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\bin\Debug\net8.0-windows\PracticalLesson01.deps.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\bin\Debug\net8.0-windows\PracticalLesson01.runtimeconfig.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\bin\Debug\net8.0-windows\PracticalLesson01.dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\bin\Debug\net8.0-windows\PracticalLesson01.pdb
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.Form1.resources
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.csproj.GenerateResource.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.GeneratedMSBuildEditorConfig.editorconfig
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.AssemblyInfoInputs.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.AssemblyInfo.cs
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\refint\PracticalLesson01.dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.pdb
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.genruntimeconfig.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Lab\Lab03\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\ref\PracticalLesson01.dll
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\bin\Debug\net8.0-windows\PracticalLesson01.exe
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\bin\Debug\net8.0-windows\PracticalLesson01.deps.json
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\bin\Debug\net8.0-windows\PracticalLesson01.runtimeconfig.json
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\bin\Debug\net8.0-windows\PracticalLesson01.dll
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\bin\Debug\net8.0-windows\PracticalLesson01.pdb
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.Form1.resources
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.Form2.resources
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.csproj.GenerateResource.cache
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.AssemblyInfoInputs.cache
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.AssemblyInfo.cs
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.csproj.CoreCompileInputs.cache
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.dll
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\refint\PracticalLesson01.dll
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.pdb
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.genruntimeconfig.cache
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\ref\PracticalLesson01.dll
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.Form3.resources
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.Form4.resources
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.Form5.resources
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.Form6.resources
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.Form7.resources
+C:\Users\gamik\source\repos\PracticalLesson01\PracticalLesson01\obj\Debug\net8.0-windows\PracticalLesson01.Form8.resources

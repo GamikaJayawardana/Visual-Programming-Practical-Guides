@@ -1,0 +1,17 @@
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\bin\Debug\net7.0-windows\CricMatch.exe
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\bin\Debug\net7.0-windows\CricMatch.deps.json
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\bin\Debug\net7.0-windows\CricMatch.runtimeconfig.json
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\bin\Debug\net7.0-windows\CricMatch.dll
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\bin\Debug\net7.0-windows\CricMatch.pdb
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\CricMatch.csproj.AssemblyReference.cache
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\CricMatch.Form1.resources
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\CricMatch.csproj.GenerateResource.cache
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\CricMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\CricMatch.AssemblyInfoInputs.cache
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\CricMatch.AssemblyInfo.cs
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\CricMatch.csproj.CoreCompileInputs.cache
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\CricMatch.dll
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\refint\CricMatch.dll
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\CricMatch.pdb
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\CricMatch.genruntimeconfig.cache
+C:\Users\jayawar-ec21006\Desktop\Lab_02\CricMatch\CricMatch\obj\Debug\net7.0-windows\ref\CricMatch.dll

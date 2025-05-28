@@ -1,0 +1,16 @@
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\bin\Debug\net8.0-windows\SpeedCalculator.exe
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\bin\Debug\net8.0-windows\SpeedCalculator.deps.json
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\bin\Debug\net8.0-windows\SpeedCalculator.runtimeconfig.json
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\bin\Debug\net8.0-windows\SpeedCalculator.dll
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\bin\Debug\net8.0-windows\SpeedCalculator.pdb
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\SpeedCalculator.Form1.resources
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\SpeedCalculator.csproj.GenerateResource.cache
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\SpeedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\SpeedCalculator.AssemblyInfoInputs.cache
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\SpeedCalculator.AssemblyInfo.cs
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\SpeedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\SpeedCalculator.dll
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\refint\SpeedCalculator.dll
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\SpeedCalculator.pdb
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\SpeedCalculator.genruntimeconfig.cache
+C:\Users\gamik\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net8.0-windows\ref\SpeedCalculator.dll

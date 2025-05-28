@@ -1,0 +1,17 @@
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\bin\Debug\net7.0-windows\Vovels.exe
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\bin\Debug\net7.0-windows\Vovels.deps.json
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\bin\Debug\net7.0-windows\Vovels.runtimeconfig.json
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\bin\Debug\net7.0-windows\Vovels.dll
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\bin\Debug\net7.0-windows\Vovels.pdb
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\Vovels.csproj.AssemblyReference.cache
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\Vovels.Form1.resources
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\Vovels.csproj.GenerateResource.cache
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\Vovels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\Vovels.AssemblyInfoInputs.cache
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\Vovels.AssemblyInfo.cs
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\Vovels.csproj.CoreCompileInputs.cache
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\Vovels.dll
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\refint\Vovels.dll
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\Vovels.pdb
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\Vovels.genruntimeconfig.cache
+C:\Users\jayawar-ec21006\Desktop\Lab_02\Vovels\Vovels\obj\Debug\net7.0-windows\ref\Vovels.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gamik\\source\\repos\\Lab_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09EB4FAE-88BA-47B6-B347-354A28C1DCAC}|Lab_05\\Lab_05.csproj|c:\\users\\gamik\\source\\repos\\lab_05\\lab_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EB4FAE-88BA-47B6-B347-354A28C1DCAC}|Lab_05\\Lab_05.csproj|solutionrelative:lab_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EB4FAE-88BA-47B6-B347-354A28C1DCAC}|Lab_05\\Lab_05.csproj|c:\\users\\gamik\\source\\repos\\lab_05\\lab_05\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EB4FAE-88BA-47B6-B347-354A28C1DCAC}|Lab_05\\Lab_05.csproj|solutionrelative:lab_05\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EB4FAE-88BA-47B6-B347-354A28C1DCAC}|Lab_05\\Lab_05.csproj|c:\\users\\gamik\\source\\repos\\lab_05\\lab_05\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09EB4FAE-88BA-47B6-B347-354A28C1DCAC}|Lab_05\\Lab_05.csproj|solutionrelative:lab_05\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\gamik\\source\\repos\\Lab_05\\Lab_05\\Form3.cs",
+              "RelativeDocumentMoniker": "Lab_05\\Form3.cs",
+              "ToolTip": "C:\\Users\\gamik\\source\\repos\\Lab_05\\Lab_05\\Form3.cs*",
+              "RelativeToolTip": "Lab_05\\Form3.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:00:17.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gamik\\source\\repos\\Lab_05\\Lab_05\\Form3.cs",
+              "RelativeDocumentMoniker": "Lab_05\\Form3.cs",
+              "ToolTip": "C:\\Users\\gamik\\source\\repos\\Lab_05\\Lab_05\\Form3.cs [Design]*",
+              "RelativeToolTip": "Lab_05\\Form3.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:56:42.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gamik\\source\\repos\\Lab_05\\Lab_05\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_05\\Program.cs",
+              "ToolTip": "C:\\Users\\gamik\\source\\repos\\Lab_05\\Lab_05\\Program.cs*",
+              "RelativeToolTip": "Lab_05\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:46:36.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

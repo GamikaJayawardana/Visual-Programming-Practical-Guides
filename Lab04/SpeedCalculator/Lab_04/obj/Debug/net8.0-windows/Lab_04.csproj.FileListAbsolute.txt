@@ -1,0 +1,16 @@
+C:\Users\gamik\source\repos\Lab_04\Lab_04\bin\Debug\net8.0-windows\Lab_04.exe
+C:\Users\gamik\source\repos\Lab_04\Lab_04\bin\Debug\net8.0-windows\Lab_04.deps.json
+C:\Users\gamik\source\repos\Lab_04\Lab_04\bin\Debug\net8.0-windows\Lab_04.runtimeconfig.json
+C:\Users\gamik\source\repos\Lab_04\Lab_04\bin\Debug\net8.0-windows\Lab_04.dll
+C:\Users\gamik\source\repos\Lab_04\Lab_04\bin\Debug\net8.0-windows\Lab_04.pdb
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\Lab_04.Form1.resources
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\Lab_04.csproj.GenerateResource.cache
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\Lab_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\Lab_04.AssemblyInfoInputs.cache
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\Lab_04.AssemblyInfo.cs
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\Lab_04.csproj.CoreCompileInputs.cache
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\Lab_04.dll
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\refint\Lab_04.dll
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\Lab_04.pdb
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\Lab_04.genruntimeconfig.cache
+C:\Users\gamik\source\repos\Lab_04\Lab_04\obj\Debug\net8.0-windows\ref\Lab_04.dll
