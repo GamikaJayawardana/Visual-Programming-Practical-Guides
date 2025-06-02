@@ -1,0 +1,16 @@
+C:\Users\gamik\source\repos\PascalTriangle\bin\Debug\net8.0-windows\PascalTriangle.exe
+C:\Users\gamik\source\repos\PascalTriangle\bin\Debug\net8.0-windows\PascalTriangle.deps.json
+C:\Users\gamik\source\repos\PascalTriangle\bin\Debug\net8.0-windows\PascalTriangle.runtimeconfig.json
+C:\Users\gamik\source\repos\PascalTriangle\bin\Debug\net8.0-windows\PascalTriangle.dll
+C:\Users\gamik\source\repos\PascalTriangle\bin\Debug\net8.0-windows\PascalTriangle.pdb
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\PascalTriangle.Form1.resources
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\PascalTriangle.csproj.GenerateResource.cache
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\PascalTriangle.AssemblyInfo.cs
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\PascalTriangle.dll
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\refint\PascalTriangle.dll
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\PascalTriangle.pdb
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\PascalTriangle.genruntimeconfig.cache
+C:\Users\gamik\source\repos\PascalTriangle\obj\Debug\net8.0-windows\ref\PascalTriangle.dll
