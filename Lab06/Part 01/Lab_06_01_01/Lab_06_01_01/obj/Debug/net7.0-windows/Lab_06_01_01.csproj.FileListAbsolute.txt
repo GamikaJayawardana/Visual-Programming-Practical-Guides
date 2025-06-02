@@ -1,0 +1,34 @@
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.csproj.AssemblyReference.cache
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.Form1.resources
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.csproj.GenerateResource.cache
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.AssemblyInfoInputs.cache
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.AssemblyInfo.cs
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.csproj.CoreCompileInputs.cache
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\bin\Debug\net7.0-windows\Lab_06_01_01.exe
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\bin\Debug\net7.0-windows\Lab_06_01_01.deps.json
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\bin\Debug\net7.0-windows\Lab_06_01_01.runtimeconfig.json
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\bin\Debug\net7.0-windows\Lab_06_01_01.dll
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\bin\Debug\net7.0-windows\Lab_06_01_01.pdb
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.dll
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\refint\Lab_06_01_01.dll
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.pdb
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.genruntimeconfig.cache
+C:\Users\jayawar-ec21006\source\repos\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\ref\Lab_06_01_01.dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\bin\Debug\net7.0-windows\Lab_06_01_01.exe
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\bin\Debug\net7.0-windows\Lab_06_01_01.deps.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\bin\Debug\net7.0-windows\Lab_06_01_01.runtimeconfig.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\bin\Debug\net7.0-windows\Lab_06_01_01.dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\bin\Debug\net7.0-windows\Lab_06_01_01.pdb
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.Form1.resources
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.csproj.GenerateResource.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.AssemblyInfoInputs.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.AssemblyInfo.cs
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.sourcelink.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\refint\Lab_06_01_01.dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.pdb
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\Lab_06_01_01.genruntimeconfig.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab06\Lab_06_01_01\Lab_06_01_01\obj\Debug\net7.0-windows\ref\Lab_06_01_01.dll

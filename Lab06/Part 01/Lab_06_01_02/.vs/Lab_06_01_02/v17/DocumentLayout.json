@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab06\\Lab_06_01_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF91B252-D109-4E35-866B-DBD80F704238}|Lab_06_01_02.csproj|d:\\(d) documents\\lessons\\year 03 sem 01\\becs 31242 - visual programming\\visual programming practical guides\\lab06\\lab_06_01_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF91B252-D109-4E35-866B-DBD80F704238}|Lab_06_01_02.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF91B252-D109-4E35-866B-DBD80F704238}|Lab_06_01_02.csproj|d:\\(d) documents\\lessons\\year 03 sem 01\\becs 31242 - visual programming\\visual programming practical guides\\lab06\\lab_06_01_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF91B252-D109-4E35-866B-DBD80F704238}|Lab_06_01_02.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF91B252-D109-4E35-866B-DBD80F704238}|Lab_06_01_02.csproj|d:\\(d) documents\\lessons\\year 03 sem 01\\becs 31242 - visual programming\\visual programming practical guides\\lab06\\lab_06_01_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF91B252-D109-4E35-866B-DBD80F704238}|Lab_06_01_02.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab06\\Lab_06_01_02\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab06\\Lab_06_01_02\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:18:26.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab06\\Lab_06_01_02\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab06\\Lab_06_01_02\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:17:13.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab06\\Lab_06_01_02\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab06\\Lab_06_01_02\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:04:58.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
