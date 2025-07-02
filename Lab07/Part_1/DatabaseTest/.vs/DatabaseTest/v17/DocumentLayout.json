@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\",
+  "WorkspaceRootPath": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|c:\\users\\gamik\\source\\repos\\databasetest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|d:\\(d) documents\\lessons\\year 03 sem 01\\becs 31242 - visual programming\\visual programming practical guides\\lab07\\part_1\\databasetest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|c:\\users\\gamik\\source\\repos\\databasetest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|c:\\users\\gamik\\source\\repos\\databasetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|d:\\(d) documents\\lessons\\year 03 sem 01\\becs 31242 - visual programming\\visual programming practical guides\\lab07\\part_1\\databasetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|c:\\users\\gamik\\source\\repos\\databasetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|d:\\(d) documents\\lessons\\year 03 sem 01\\becs 31242 - visual programming\\visual programming practical guides\\lab07\\part_1\\databasetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|c:\\users\\gamik\\source\\repos\\databasetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D8476096-F35A-45DD-8DA1-E3BDBAFF11A5}|DatabaseTest.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,22 +36,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\Program.cs",
+              "DocumentMoniker": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\Program.cs",
+              "ToolTip": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:09:37.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T16:09:37.052Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\Form1.cs",
+              "DocumentMoniker": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\Form1.cs",
+              "ToolTip": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,23 +61,21 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\Form1.cs",
+              "DocumentMoniker": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T15:41:17.961Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-06T15:41:17.961Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\Form2.cs",
+              "DocumentMoniker": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\Form2.cs*",
-              "RelativeToolTip": "Form2.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAIAwwCgAAAA3AAAAAAAAAA==",
+              "ToolTip": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T15:31:56.528Z",
               "EditorCaption": ""
@@ -87,13 +84,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\Form2.cs",
+              "DocumentMoniker": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\Form2.cs [Design]*",
-              "RelativeToolTip": "Form2.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T15:29:38.111Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-06T15:29:38.111Z"
             }
           ]
         }

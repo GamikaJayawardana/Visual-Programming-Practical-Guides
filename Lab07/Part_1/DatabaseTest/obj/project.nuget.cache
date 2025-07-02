@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vKOoaICmPF8=",
+  "dgSpecHash": "oytmB/4irQs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gamik\\source\\repos\\DatabaseTest\\DatabaseTest.csproj",
+  "projectFilePath": "D:\\(D) Documents\\Lessons\\Year 03 Sem 01\\BECS 31242 - Visual Programming\\Visual Programming Practical Guides\\Lab07\\Part_1\\DatabaseTest\\DatabaseTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gamik\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\gamik\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
