@@ -1,0 +1,17 @@
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\bin\Debug\net8.0-windows\FileReadWrite..exe
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\bin\Debug\net8.0-windows\FileReadWrite..deps.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\bin\Debug\net8.0-windows\FileReadWrite..runtimeconfig.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\bin\Debug\net8.0-windows\FileReadWrite..dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\bin\Debug\net8.0-windows\FileReadWrite..pdb
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\FileReadWrite_.Form1.resources
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\FileReadWrite..csproj.GenerateResource.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\FileReadWrite..GeneratedMSBuildEditorConfig.editorconfig
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\FileReadWrite..AssemblyInfoInputs.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\FileReadWrite..AssemblyInfo.cs
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\FileReadWrite..csproj.CoreCompileInputs.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\FileReadWrite..sourcelink.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\FileReadWrite..dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\refint\FileReadWrite..dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\FileReadWrite..pdb
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\FileReadWrite..genruntimeconfig.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\FileReadWrite\obj\Debug\net8.0-windows\ref\FileReadWrite..dll

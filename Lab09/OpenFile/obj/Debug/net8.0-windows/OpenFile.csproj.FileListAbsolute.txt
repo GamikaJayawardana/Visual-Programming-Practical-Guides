@@ -1,0 +1,17 @@
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\bin\Debug\net8.0-windows\OpenFile.exe
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\bin\Debug\net8.0-windows\OpenFile.deps.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\bin\Debug\net8.0-windows\OpenFile.runtimeconfig.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\bin\Debug\net8.0-windows\OpenFile.dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\bin\Debug\net8.0-windows\OpenFile.pdb
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\OpenFile.Form1.resources
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\OpenFile.csproj.GenerateResource.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\OpenFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\OpenFile.AssemblyInfoInputs.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\OpenFile.AssemblyInfo.cs
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\OpenFile.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\OpenFile.sourcelink.json
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\OpenFile.dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\refint\OpenFile.dll
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\OpenFile.pdb
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\OpenFile.genruntimeconfig.cache
+D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31242 - Visual Programming\Visual Programming Practical Guides\Lab09\OpenFile\obj\Debug\net8.0-windows\ref\OpenFile.dll
